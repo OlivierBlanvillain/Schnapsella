@@ -36,4 +36,8 @@ At *any* time, either player may decide to announce the trump suit, irrespective
 
 The player who announced the trump suit counts the points in his tricks. A total of 66 card points is needed to win the round. Winning a round results in scoring 1 game point, while losing a round results in the opponent scoring 2 game points.
 
+If neither player announced a trump suit by the end of the round, no game points are scored that round.
+
+<!-- The dealer of a round without trumps also deals the next. -->
+
 The overall winner is the first player that reaches 7 game points.
