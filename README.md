@@ -26,7 +26,7 @@ Determine the first dealer by any acceptable means; thereafter, the player who w
 
 ## Playing
 
-Non-dealer leads the first trick, and subsequently the player who takes a trick leads the next. A trick is taken by the highest card of the suit led, or by the highest trump if any is played. Players must follow suit if possible. If a player cannot follow suit, he must play a trump card. If he cannot play trump either, he may play any suit. At the end of each trick, players replenish their hand to 5 cards by drawing from the talon.
+Non-dealer leads the first trick, and subsequently the player who takes a trick leads the next. A trick is taken by the highest card of the suit led, or by the highest trump if any is played. Players must follow suit if possible. If a player cannot follow suit, he must play a trump card. If he cannot play trump either, he may play any suit. At the end of each trick, players replenish their hand to 5 cards by drawing from the talon, starting from the player who took the trick.
 
 At *any* time, either player may decide to announce the trump suit, irrespectively of the players' turns. Once the trump suit has been announced, players stop replenishing their hand and finish the round with their remaining cards.
 
